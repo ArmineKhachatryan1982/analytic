@@ -27,9 +27,10 @@
 - **URL:** `/incomes`
 - **Controller:** `IncomeController`
 
-## ⚙️ Setup Instructions
-
-1. Установить зависимости:
-   ```bash
-   composer install
-   npm install && npm run dev
+### https://cpanel.profy.am/ 
+### Username - test@profy.am
+### password -  @;B!eFkhiFW0
+### db - armine1982_analytica
+### domain -  https://profy.am/
+### swagger  - https://profy.am/api/documentation
+### Вы можете запустить API и посмотреть, как заполняются соответствующие таблицы.
